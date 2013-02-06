@@ -1,0 +1,7 @@
+tools/
+lib/impact
+lib/weltmeister
+weltmeister.html
+.DS_Store
+.idea/
+server.py
